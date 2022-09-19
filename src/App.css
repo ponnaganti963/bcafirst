@@ -1,0 +1,15 @@
+
+
+.App {
+  display: grid;
+  height: 100vh;
+  place-items: center;
+}
+
+h1{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 50px;
+  line-height: 64px;
+  font-weight: 700px;
+  color: #004aad;
+}

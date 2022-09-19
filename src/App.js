@@ -4,9 +4,14 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
+    <>
+    <img src='./bosscoder_header_logo_2.svg'></img>
+     <div className="App">
       <HelloWorld/>
     </div>
+    </>
+
+   
   );
 }
 

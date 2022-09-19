@@ -2,10 +2,15 @@
 
 .App {
   display: grid;
-  height: 100vh;
+  height: calc(100vh - 120px);
   place-items: center;
 }
 
+img{
+  width: 150px;
+  height: 50px;
+  margin: 30px;
+}
 h1{
   font-family: 'Open Sans', sans-serif;
   font-size: 50px;
